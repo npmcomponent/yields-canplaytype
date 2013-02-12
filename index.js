@@ -6,7 +6,7 @@
 var audio = window.Audio && new window.Audio();
 
 /**
- * Wether or not the given type can
+ * Whether or not the given type can
  * be played.
  *
  * @param {String} type (defaulted to `audio/mpeg`)
