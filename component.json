@@ -2,7 +2,7 @@
   "name": "canplaytype",
   "repo": "yields/canplaytype",
   "description": "Audio canplaytype douchebaggery removed",
-  "version": "0.0.1",
+  "version": "1.0.0",
   "keywords": ["canplaytype", "audio", "html5"],
   "dependencies": {},
   "development": {},
